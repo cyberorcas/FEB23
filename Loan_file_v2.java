@@ -3,6 +3,7 @@ import java.lang.Math;
 import java.io.printer; 
 import java.io.collection; 
 import rv
+import kuma
 {  
 //function to print the spiral pattern  
 public static void printPattern(int n)  
